@@ -101,3 +101,5 @@ To access darknet markets, use their official onion URLs. Always ensure you’re
 
 Following these tips will increase your security on the dark web. Always prioritize security, verify all links, and take all necessary precautions.
 Plase contribute and add stars to this repo.
+
+Update: Link is now functioning and live
